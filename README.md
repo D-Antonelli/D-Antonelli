@@ -4,7 +4,7 @@
 
 {💻} Software Developer and technical writer on [@dev.to](https://dev.to/dantonelli), prev. @boonandmoil
 
-{⚡️} In 2019, I started writing my first line of code with Java.
+{⚡️} In 2018, I started writing my first line of code with Java.
 
 {📱+🕸️} Since then, I have developed numerous *web* and *iOS* applications.
 
