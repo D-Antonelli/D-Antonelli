@@ -1,6 +1,6 @@
 # 👋🏼 Hi, I'm Derya
 
-I am full-stack and iOS software enginner and I build beautiful, user-centric web applications. 
+I am full-stack and iOS software engineer and I build beautiful, user-centric web applications. 
 Occasionally I write technical articles on @dev.to, and previously with @boonandmoil
 
 ## 👀 Looking for an experienced Full Stack Developer?
