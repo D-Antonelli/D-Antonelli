@@ -19,6 +19,9 @@ I’m open to exciting opportunities where I can leverage my skills in full stac
 - Leveraging cloud platforms to build scalable, reliable applications
 - Contributing to projects that make a difference in people’s lives
 
+## ✏️ Recent Posts
+- https://dev.to/dantonelli/introducing-fixlog-a-property-maintenance-logger-3ona
+
 ## 🌟 Projects
 
 Here are some public projects I’ve worked on:
