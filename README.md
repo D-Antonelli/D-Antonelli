@@ -4,7 +4,7 @@ I am full-stack and iOS software enginner and I build beautiful, user-centric we
 Occasionally I write technical articles on @dev.to, and previously with @boonandmoil
 
 ## 👀 Looking for an experienced Full Stack Developer?
-I’m open to exciting opportunities where I can leverage my skills in full stack development and cloud solutions. Feel free to check out my [LinkedIn](https://www.linkedin.com/in/derya-a-antonelli).
+I’m open to exciting opportunities where I can leverage my skills in full stack development and cloud solutions. Feel free to check out my [LinkedIn](https://www.linkedin.com/in/derya-a-antonelli). I am based in UK 🇬🇧
 
 
 ## ⚡️ Tech Stack
