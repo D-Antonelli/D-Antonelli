@@ -3,7 +3,7 @@
 I am full-stack and iOS software engineer and I build beautiful, user-centric web applications. 
 Occasionally I write technical articles on @dev.to, and previously with @boonandmoil
 
-## 👀 Looking to hire experienced Full Stack or developer?
+## 👀 Looking to hire experienced Full Stack developer?
 I’m open to exciting opportunities where I can leverage my skills in full stack development and cloud solutions. Feel free to check out my [LinkedIn](https://www.linkedin.com/in/derya-a-antonelli) or [email me](mailto:derya.antonelli@gmail.com).
 
 ## ⚡️ Tech Stack
