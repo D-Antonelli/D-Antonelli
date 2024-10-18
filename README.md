@@ -34,7 +34,7 @@ Here are some public projects I’ve worked on:
 - System design
 
 
-## Interested in learning about
+## ⭐️ Interested in learning about
 - Rust
 - iOT
 - Python
