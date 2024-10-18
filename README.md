@@ -19,6 +19,7 @@ I’m open to exciting opportunities where I can leverage my skills in full stac
 - Algebra
 - Italian
 - Software Design Patters with Women Coding Community's weekly course
+- System design 
 
 ## ✏️ Recent Posts
 - https://dev.to/dantonelli/introducing-fixlog-a-property-maintenance-logger-3ona
