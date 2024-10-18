@@ -13,14 +13,6 @@ I’m open to exciting opportunities where I can leverage my skills in full stac
 - Devops: GitHub Actions, Terraform (learning), Kubernetes (learning), Ansible (learning)
 - Cloud Providers: Azure, Scaleway, AWS (learning)
 
-## 📖 Currently Practicing With
-- Data Structures and Algorithms
-- DevOps and cloud technologies
-- Algebra
-- Italian
-- Software Design Patters with Women Coding Community's weekly course
-- System design 
-
 ## ✏️ Recent Posts
 - https://dev.to/dantonelli/introducing-fixlog-a-property-maintenance-logger-3ona
 
@@ -31,6 +23,22 @@ Here are some public projects I’ve worked on:
 - [Finance Accumulator App](https://github.com/Codespice1/finance_accumulator_web): A finance management app that automatically connects to Stripe to retrieve income and expenses statistics. 
 - [Portfolio Website](https://deryasdesktop.com/): My personal portfolio showcasing my skills and projects.
 - [Multiply It](https://apps.apple.com/gb/app/multiply-it/id6444566784): iOS app for practicing multiplication.
+  
+
+## 📖 Currently Learning
+- Data Structures and Algorithms
+- DevOps and cloud technologies
+- Algebra
+- Italian
+- Software Design Patters with Women Coding Community's weekly course
+- System design
+
+
+## Interested in learning about
+- Rust
+- iOT
+- Python
+
 
 ## 🚀 What I’m Excited About
 - Contributing to projects that make a difference in people’s lives
