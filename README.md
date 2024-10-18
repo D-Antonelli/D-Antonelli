@@ -3,7 +3,7 @@
 I am full-stack and iOS software engineer and I build beautiful, user-centric web applications. 
 Occasionally I write technical articles on @dev.to, and previously with @boonandmoil
 
-## 👀 Looking for an experienced Full Stack Developer?
+## 👀 Looking to hire experienced Full Stack or developer?
 I’m open to exciting opportunities where I can leverage my skills in full stack development and cloud solutions. Feel free to check out my [LinkedIn](https://www.linkedin.com/in/derya-a-antonelli) or [email me](mailto:derya.antonelli@gmail.com).
 
 ## ⚡️ Tech Stack
@@ -12,6 +12,13 @@ I’m open to exciting opportunities where I can leverage my skills in full stac
 - Mobile Development (iOS): Swift, SwiftUI
 - Devops: GitHub Actions, Terraform (learning), Kubernetes (learning), Ansible (learning)
 - Cloud Providers: Azure, Scaleway, AWS (learning)
+
+## 📖 Currently Practicing With
+- Data Structures and Algorithms
+- DevOps and cloud technologies
+- Algebra
+- Italian
+- Software Design Patters with Women Coding Community's weekly course
 
 ## ✏️ Recent Posts
 - https://dev.to/dantonelli/introducing-fixlog-a-property-maintenance-logger-3ona
@@ -25,8 +32,6 @@ Here are some public projects I’ve worked on:
 - [Multiply It](https://apps.apple.com/gb/app/multiply-it/id6444566784): iOS app for practicing multiplication.
 
 ## 🚀 What I’m Excited About
-- Collaborating with teams that value innovation and problem-solving
-- Leveraging cloud platforms to build scalable, reliable applications
 - Contributing to projects that make a difference in people’s lives
 
 ## 🔗 Connect With Me
