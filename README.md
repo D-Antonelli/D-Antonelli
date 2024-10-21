@@ -25,11 +25,10 @@ Here are some public projects I’ve worked on:
 - [Multiply It](https://apps.apple.com/gb/app/multiply-it/id6444566784): iOS app for practicing multiplication.
   
 
-## 📖 Hot Topics
+## 📖 Currently, learning about
 - Data Structures and Algorithms
 - DevOps and cloud technologies
-- Algebra
-- Italian
+- Math
 - Software Design Patters with Women Coding Community's weekly course
 - System design
 
