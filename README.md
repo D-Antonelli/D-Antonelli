@@ -33,12 +33,6 @@ Here are some public projects I’ve worked on:
 - System design
 
 
-## ⭐️ Interested in learning about
-- Rust
-- iOT
-- Python
-
-
 ## 🚀 What I’m Excited About
 - Contributing to projects that make a difference in people’s lives
 
