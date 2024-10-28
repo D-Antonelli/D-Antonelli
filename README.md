@@ -1,4 +1,4 @@
-# 👋🏼 Hi, I'm Derya
+# 👋🏼 Hi, my name is [Derya](https://www.howtopronounce.com/derya)
 
 I am full-stack and iOS software engineer and I build beautiful, user-centric web applications. 
 Occasionally I write technical articles on @dev.to, and previously with @boonandmoil
