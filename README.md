@@ -14,6 +14,7 @@ I’m open to exciting opportunities where I can leverage my skills in full stac
 - Cloud Providers: Azure, Scaleway, AWS (learning)
 
 ## ✏️ Recent Posts
+- https://dev.to/dantonelli/automate-vercel-preview-deployments-with-github-actions-a-step-by-step-guide-38fb
 - https://dev.to/dantonelli/introducing-fixlog-a-property-maintenance-logger-3ona
 
 ## 🌟 Projects
@@ -24,14 +25,6 @@ Here are some public projects I’ve worked on:
 - [Portfolio Website](https://deryasdesktop.com/): My personal portfolio showcasing my skills and projects.
 - [Multiply It](https://apps.apple.com/gb/app/multiply-it/id6444566784): iOS app for practicing multiplication.
   
-
-## 📖 Currently, learning about
-- Data Structures and Algorithms
-- DevOps and cloud technologies
-- Math
-- Software Design Patters with Women Coding Community's weekly course
-- System design
-
 
 ## 🚀 What I’m Excited About
 - Contributing to projects that make a difference in people’s lives
