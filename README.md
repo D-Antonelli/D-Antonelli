@@ -6,7 +6,7 @@ Occasionally I write technical articles on @dev.to, and previously with @boonand
 
 ## ⚡️ Tech Stack
 - Frontend: JavaScript, React, TypeScript, VueJS, Tailwind CSS, HTML5, CSS3
-- Backend & Databases: Node.js, PHP, MongoDB, PostgreSQL
+- Backend & Databases: Node.js, PHP, MongoDB, PostgreSQL, Ruby
 - Tools: GitHub Actions, Docker, Jenkins
 - Cloud Providers: Azure, Scaleway
 
