@@ -5,11 +5,10 @@ Occasionally I write technical articles on @dev.to, and previously with @boonand
 
 
 ## ⚡️ Tech Stack
-- Frontend: JavaScript, React, TypeScript, Vue, Tailwind CSS, HTML5, CSS3, Laravel
-- Backend & Databases: Node.js, PHP, MongoDB, PostreSQL
-- Mobile Development (iOS): Swift, SwiftUI
-- Devops: GitHub Actions, Terraform (learning), Kubernetes (learning), Ansible (learning)
-- Cloud Providers: Azure, Scaleway, AWS (learning)
+- Frontend: JavaScript, React, TypeScript, VueJS, Tailwind CSS, HTML5, CSS3
+- Backend & Databases: Node.js, PHP, MongoDB, PostgreSQL
+- Tools: GitHub Actions, Docker, Jenkins
+- Cloud Providers: Azure, Scaleway
 
 ## ✏️ Latest Posts
 - https://dev.to/dantonelli/automate-vercel-preview-deployments-with-github-actions-a-step-by-step-guide-38fb
