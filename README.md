@@ -1,6 +1,6 @@
 # 👋🏼 Hi, my name is [Derya](https://www.howtopronounce.com/derya)
 
-I am full-stack software engineer and I build beautiful, user-centric web and mobile applications.  
+I am full-stack software engineer.  
 Occasionally I write technical articles on @dev.to, and previously with @boonandmoil, currently @unep-wcmc
 
 
